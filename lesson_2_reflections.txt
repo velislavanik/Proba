@@ -1,8 +1,8 @@
-What happens when you initialize a repository? Why do you need to do it?
+1.What happens when you initialize a repository? Why do you need to do it?
 	A new repository is created and a hidden .git file
-How is the staging area different from the working directory and the repository? What value do you think it offers?
+2.How is the staging area different from the working directory and the repository? What value do you think it offers?
 	It's in the middle between the working directory and the repository.
 3.How can you use the staging area to make sure you have one commit per logical change?
 	first add the file one by one to the staging area. Do the checkup and then commit it to the repository
-How do the diagrams help you visualize the branch structure?
-	It's a great diagram, /thans.
+4.How do the diagrams help you visualize the branch structure?
+	It's a great diagram, thanks.
